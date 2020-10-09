@@ -14,43 +14,43 @@ const TrendingPanel = () => {
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="head">Artificial intelligence</span>
+              <span className="subtext">há 3 d • 316 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="head">FaceBook ReactJS</span>
+              <span className="subtext">há 8 d • 122 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="head">NodeJS</span>
+              <span className="subtext">há 12 d • 98 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="head">React Native</span>
+              <span className="subtext">há 3 d • 17 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="head">Java Script</span>
+              <span className="subtext">há 1 d • 76 leitores</span>
             </span>
           </li>
           <li>
             <span className="bullet" />
             <span className="news">
-              <span className="head">Bootcamp da Rocketseat</span>
-              <span className="subtext">há 1 d • 316 leitores</span>
+              <span className="head">Design Patterns</span>
+              <span className="subtext">há 9 d • 88 leitores</span>
             </span>
           </li>
         </ul>

@@ -20,24 +20,21 @@ const FeedPost = () => {
     <Panel>
       <Container>
         <Row className="heading">
-          <Avatar src="https://i.imgur.com/81RtXfT.jpg" alt="Rocketseat" />
+          <Avatar src="logo.png" alt="FakeCompany" />
           <Column>
-            <h3>Rocketseat</h3>
-            <h4>Instituição de ensino</h4>
-            <time>1 sem</time>
+            <h3>FakeCompany</h3>
+            <h4>System developer</h4>
+            <time>2 sem</time>
           </Column>
         </Row>
 
-        <PostImage
-          src="https://blog.rocketseat.com.br/content/images/2019/05/Painel.png"
-          alt="Rocketseat Blog"
-        />
+        <PostImage src="feed.jpg" alt="FakeCompany Blog" />
 
         <Row className="likes">
           <span className="circle blue" />
           <span className="circle green" />
           <span className="circle red" />
-          <span className="number">49</span>
+          <span className="number">23</span>
         </Row>
 
         <Row>
