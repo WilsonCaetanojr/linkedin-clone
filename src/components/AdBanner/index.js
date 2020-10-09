@@ -5,8 +5,8 @@ import { Container } from "./styles";
 const AdBanner = () => {
   return (
     <Container className="ad-banner">
-      <span>Rocketseat - </span>
-      Interface reproduzida em busca do próximo nível.
+      <span>FakeCompany - </span>
+      Interface clonada do LinkedIn.
     </Container>
   );
 };
