@@ -1,11 +1,11 @@
 import React from "react";
-
+import Layout from "./components/layout";
 import GlobalStyles from "./styles/GlobalStyles";
 
 function App() {
   return (
     <>
-      <h1>LinkedIn</h1>
+      <Layout />
 
       <GlobalStyles />
     </>
